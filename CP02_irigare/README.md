@@ -102,16 +102,6 @@ Dacă portul este ocupat de o rulare anterioară, oprește vechiul gateway înai
 Mesajele JSON invalide sau cu câmpuri de bază incorecte sunt ignorate și afișate ca erori.
 Exemplul este pentru demonstrație locală: nu include reconectare automată sau confirmare de recepție la client.
 
-## Dovezi pentru CP02
-
-Folderul `capturi_Fedora` conține cele cinci screenshot-uri originale ale rulării pe laptop,
-din 29 octombrie 2026. `Raport_CP02.pdf` include aceste capturi și explicațiile lor.
-Gateway-ul a afișat 4 thread-uri active, iar `verifica.py` a confirmat 24/24 de mesaje
-pentru fiecare dintre cei trei senzori, adică 72/72 în total.
-
-În PDF sunt vizibile mesajele primite, execuțiile separate ale senzorilor și verificarea finală.
-La o demonstrație nouă, salvează rezultatele și capturile înainte să repornești gateway-ul.
-
 ## Surse
 
 - https://docs.python.org/3.12/library/socket.html
