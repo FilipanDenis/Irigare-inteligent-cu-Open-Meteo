@@ -6,7 +6,9 @@ Simulare IoT pentru udarea unei grădini pe baza vremii.
 
 **Echipa:** Filipan Cristian Denis și Oana Rareș  
 **Disciplina:** Tehnici de programare în IoT (TPI)  
-**Stadiu:** Propunere de proiect. Codul urmează să fie implementat.
+**Stadiu:** CP02 implementat: trei procese senzor transmit date sintetice către un gateway TCP cu thread-uri.
+
+Codul, instrucțiunile și raportul sunt în [folderul CP02](CP02_irigare/).
 
 ## Ce face aplicația
 
